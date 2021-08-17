@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.pList {
+	margin-top : 50px;
+	width:  100%;
+}
+
+.pList::after{
+	content: '';
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+.list {
+	width: 33.3%;
+	float: left;
+	list-style: none;
+}
+.pPrice {
+	margin-bottom: 10px;
+}
