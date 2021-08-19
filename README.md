@@ -11,11 +11,12 @@
 
 
 ## 프로젝트 개요
+  + 마켓컬리를 레퍼런스로 한 사이트를 제작
   + 참여인원 : 5명  
   + 개발 환경 : Windows / macOS  
   + 사용 도구 : Eclipse, Slack, Dbeaver, Apache Tomcat, Object Aid, Drawio  
   + 사용 기술 : JAVA, JSP, Mysql, HTML, CSS, javaScript, UML  
-
+  
 
 ## 사용 도구들 버전 
 + jdk : 1.8.0_291
